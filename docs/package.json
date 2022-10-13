@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-v1",
+  "version": "0.0.1",
+  "description": "vuepress-ver.1",
+  "main": "index.js",
+  "authors": {
+    "name": "cmj",
+    "email": "chmin82@gmail.com"
+  },
+  "repository": "/vuepress-v1",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
